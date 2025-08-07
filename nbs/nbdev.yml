@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "pydev-handbook"
+  site-url: "https://ankur-aiwg.github.io/pydev-handbook"
+  description: "Python developer's handbook"
+  repo-branch: main
+  repo-url: "https://github.com/ankur-aiwg/pydev-handbook"
