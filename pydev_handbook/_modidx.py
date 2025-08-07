@@ -5,4 +5,7 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://ankur-aiwg.github.io',
                 'git_url': 'https://github.com/ankur-aiwg/pydev-handbook',
                 'lib_path': 'pydev_handbook'},
-  'syms': {'pydev_handbook.core': {'pydev_handbook.core.foo': ('core.html#foo', 'pydev_handbook/core.py')}}}
+  'syms': { 'pydev_handbook.aitoolssetup': {'pydev_handbook.aitoolssetup.foo': ('aitoolssetup.html#foo', 'pydev_handbook/aitoolssetup.py')},
+            'pydev_handbook.devenvsetup': {'pydev_handbook.devenvsetup.foo': ('devenvsetup.html#foo', 'pydev_handbook/devenvsetup.py')},
+            'pydev_handbook.introduction': { 'pydev_handbook.introduction.foo': ( 'introduction.html#foo',
+                                                                                  'pydev_handbook/introduction.py')}}}
