@@ -1,0 +1,272 @@
+[
+  {
+    "objectID": "devenvsetup.html",
+    "href": "devenvsetup.html",
+    "title": "Dev Env Setup",
+    "section": "",
+    "text": "source\n\nfoo\n\n foo ()",
+    "crumbs": [
+      "Dev Env Setup"
+    ]
+  },
+  {
+    "objectID": "index.html#introduction",
+    "href": "index.html#introduction",
+    "title": "Python Dev’s Handbook",
+    "section": "1. Introduction",
+    "text": "1. Introduction\n\n1.1 Purpose and Scope\n1.2 How to Use This Handbook\n1.3 Contributing to This Document",
+    "crumbs": [
+      "Python Dev's Handbook"
+    ]
+  },
+  {
+    "objectID": "index.html#development-environment-setup",
+    "href": "index.html#development-environment-setup",
+    "title": "Python Dev’s Handbook",
+    "section": "2. Development Environment Setup",
+    "text": "2. Development Environment Setup\n\n2.1 Python Installation and Version Management\n2.2 Virtual Environments (venv, conda, poetry)\n2.3 IDE and Editor Configuration\n2.4 VSCode Dev Containers\n2.5 Essential Tools and Extensions\n2.6 Git Configuration",
+    "crumbs": [
+      "Python Dev's Handbook"
+    ]
+  },
+  {
+    "objectID": "index.html#ai-assisted-development",
+    "href": "index.html#ai-assisted-development",
+    "title": "Python Dev’s Handbook",
+    "section": "3. AI-Assisted Development",
+    "text": "3. AI-Assisted Development\n\n3.1 GitHub Copilot Configuration\n3.2 Copilot Instructions and Custom Prompts\n3.3 Copilot Chat Modes and Best Practices\n3.4 AI Code Review and Quality Guidelines",
+    "crumbs": [
+      "Python Dev's Handbook"
+    ]
+  },
+  {
+    "objectID": "index.html#coding-standards-and-style-guide",
+    "href": "index.html#coding-standards-and-style-guide",
+    "title": "Python Dev’s Handbook",
+    "section": "4. Coding Standards and Style Guide",
+    "text": "4. Coding Standards and Style Guide\n\n4.1 PEP 8 Compliance\n4.2 Naming Conventions\n4.3 Code Formatting (Black, autopep8)\n4.4 Import Organization\n4.5 Documentation Standards (Docstrings)\n4.6 Type Hints and Annotations",
+    "crumbs": [
+      "Python Dev's Handbook"
+    ]
+  },
+  {
+    "objectID": "index.html#project-structure-and-organization",
+    "href": "index.html#project-structure-and-organization",
+    "title": "Python Dev’s Handbook",
+    "section": "5. Project Structure and Organization",
+    "text": "5. Project Structure and Organization\n\n5.1 Standard Project Layout\n5.2 Package and Module Organization\n5.3 Configuration Files (pyproject.toml, setup.py, requirements.txt)\n5.4 Environment-specific Configurations\n5.5 Directory Structure Best Practices",
+    "crumbs": [
+      "Python Dev's Handbook"
+    ]
+  },
+  {
+    "objectID": "index.html#dependency-management",
+    "href": "index.html#dependency-management",
+    "title": "Python Dev’s Handbook",
+    "section": "6. Dependency Management",
+    "text": "6. Dependency Management\n\n6.1 Package Installation and Management\n6.2 Requirements Files and Lock Files\n6.3 Poetry vs pip vs conda\n6.4 Managing Development vs Production Dependencies\n6.5 Security Scanning and Vulnerability Management",
+    "crumbs": [
+      "Python Dev's Handbook"
+    ]
+  },
+  {
+    "objectID": "index.html#testing",
+    "href": "index.html#testing",
+    "title": "Python Dev’s Handbook",
+    "section": "7. Testing",
+    "text": "7. Testing\n\n7.1 Testing Philosophy and Strategy\n7.2 Unit Testing with pytest\n7.3 Integration and End-to-End Testing\n7.4 Test Coverage and Reporting\n7.5 Mocking and Fixtures\n7.6 Test Data Management",
+    "crumbs": [
+      "Python Dev's Handbook"
+    ]
+  },
+  {
+    "objectID": "index.html#code-quality-and-linting",
+    "href": "index.html#code-quality-and-linting",
+    "title": "Python Dev’s Handbook",
+    "section": "8. Code Quality and Linting",
+    "text": "8. Code Quality and Linting\n\n8.1 Linting Tools (pylint, flake8, ruff)\n8.2 Code Complexity Analysis\n8.3 Pre-commit Hooks\n8.4 Continuous Integration Quality Gates\n8.5 Code Review Guidelines",
+    "crumbs": [
+      "Python Dev's Handbook"
+    ]
+  },
+  {
+    "objectID": "index.html#error-handling-and-logging",
+    "href": "index.html#error-handling-and-logging",
+    "title": "Python Dev’s Handbook",
+    "section": "9. Error Handling and Logging",
+    "text": "9. Error Handling and Logging\n\n9.1 Exception Handling Best Practices\n9.2 Custom Exception Classes\n9.3 Logging Configuration and Standards\n9.4 Monitoring and Alerting\n9.5 Debugging Techniques",
+    "crumbs": [
+      "Python Dev's Handbook"
+    ]
+  },
+  {
+    "objectID": "index.html#performance-and-optimization",
+    "href": "index.html#performance-and-optimization",
+    "title": "Python Dev’s Handbook",
+    "section": "10. Performance and Optimization",
+    "text": "10. Performance and Optimization\n\n10.1 Profiling and Performance Analysis\n10.2 Memory Management\n10.3 Async Programming (asyncio)\n10.4 Concurrency and Parallelism\n10.5 Caching Strategies\n10.6 Database Optimization",
+    "crumbs": [
+      "Python Dev's Handbook"
+    ]
+  },
+  {
+    "objectID": "index.html#security-best-practices",
+    "href": "index.html#security-best-practices",
+    "title": "Python Dev’s Handbook",
+    "section": "11. Security Best Practices",
+    "text": "11. Security Best Practices\n\n11.1 Input Validation and Sanitization\n11.2 Authentication and Authorization\n11.3 Secure Configuration Management\n11.4 Common Security Vulnerabilities\n11.5 Secrets Management\n11.6 Security Scanning Tools",
+    "crumbs": [
+      "Python Dev's Handbook"
+    ]
+  },
+  {
+    "objectID": "index.html#database-integration",
+    "href": "index.html#database-integration",
+    "title": "Python Dev’s Handbook",
+    "section": "12. Database Integration",
+    "text": "12. Database Integration\n\n12.1 Database Connection Management\n12.2 ORM vs Raw SQL Guidelines\n12.3 Migration Strategies\n12.4 Connection Pooling\n12.5 Transaction Management",
+    "crumbs": [
+      "Python Dev's Handbook"
+    ]
+  },
+  {
+    "objectID": "index.html#api-development",
+    "href": "index.html#api-development",
+    "title": "Python Dev’s Handbook",
+    "section": "13. API Development",
+    "text": "13. API Development\n\n13.1 RESTful API Design Principles\n13.2 FastAPI vs Flask vs Django REST Framework\n13.3 API Documentation (OpenAPI/Swagger)\n13.4 Authentication and Rate Limiting\n13.5 Versioning Strategies\n13.6 Error Response Standards",
+    "crumbs": [
+      "Python Dev's Handbook"
+    ]
+  },
+  {
+    "objectID": "index.html#documentation",
+    "href": "index.html#documentation",
+    "title": "Python Dev’s Handbook",
+    "section": "14. Documentation",
+    "text": "14. Documentation\n\n14.1 Code Documentation Standards\n14.2 API Documentation\n14.3 README Guidelines\n14.4 Architecture Decision Records (ADRs)\n14.5 User Guides and Tutorials",
+    "crumbs": [
+      "Python Dev's Handbook"
+    ]
+  },
+  {
+    "objectID": "index.html#version-control-and-git-workflow",
+    "href": "index.html#version-control-and-git-workflow",
+    "title": "Python Dev’s Handbook",
+    "section": "15. Version Control and Git Workflow",
+    "text": "15. Version Control and Git Workflow\n\n15.1 Git Branching Strategy\n15.2 Commit Message Standards\n15.3 Pull Request Guidelines\n15.4 Code Review Process\n15.5 Release Management",
+    "crumbs": [
+      "Python Dev's Handbook"
+    ]
+  },
+  {
+    "objectID": "index.html#deployment-and-devops",
+    "href": "index.html#deployment-and-devops",
+    "title": "Python Dev’s Handbook",
+    "section": "16. Deployment and DevOps",
+    "text": "16. Deployment and DevOps\n\n16.1 Containerization with Docker\n16.2 CI/CD Pipeline Configuration\n16.3 Environment Management\n16.4 Monitoring and Observability\n16.5 Deployment Strategies",
+    "crumbs": [
+      "Python Dev's Handbook"
+    ]
+  },
+  {
+    "objectID": "index.html#third-party-libraries-and-tools",
+    "href": "index.html#third-party-libraries-and-tools",
+    "title": "Python Dev’s Handbook",
+    "section": "17. Third-Party Libraries and Tools",
+    "text": "17. Third-Party Libraries and Tools\n\n17.1 Preferred Tools and Libraries by Use Case\n17.2 Library Evaluation Criteria\n17.3 Dependency Update Strategy\n17.4 Tool Recommendations and Standards",
+    "crumbs": [
+      "Python Dev's Handbook"
+    ]
+  },
+  {
+    "objectID": "index.html#team-collaboration",
+    "href": "index.html#team-collaboration",
+    "title": "Python Dev’s Handbook",
+    "section": "18. Team Collaboration",
+    "text": "18. Team Collaboration\n\n18.1 Communication Guidelines\n18.2 Knowledge Sharing Practices\n18.3 Mentoring and Code Review\n18.4 Documentation Maintenance",
+    "crumbs": [
+      "Python Dev's Handbook"
+    ]
+  },
+  {
+    "objectID": "index.html#troubleshooting-and-common-issues",
+    "href": "index.html#troubleshooting-and-common-issues",
+    "title": "Python Dev’s Handbook",
+    "section": "19. Troubleshooting and Common Issues",
+    "text": "19. Troubleshooting and Common Issues\n\n19.1 Common Python Pitfalls\n19.2 Environment Issues\n19.3 Debugging Checklist\n19.4 Performance Troubleshooting",
+    "crumbs": [
+      "Python Dev's Handbook"
+    ]
+  },
+  {
+    "objectID": "index.html#resources-and-references",
+    "href": "index.html#resources-and-references",
+    "title": "Python Dev’s Handbook",
+    "section": "20. Resources and References",
+    "text": "20. Resources and References\n\n20.1 Recommended Reading\n20.2 Online Resources and Communities\n20.3 Training and Certification\n20.4 Conference and Meetup Recommendations",
+    "crumbs": [
+      "Python Dev's Handbook"
+    ]
+  },
+  {
+    "objectID": "index.html#appendices",
+    "href": "index.html#appendices",
+    "title": "Python Dev’s Handbook",
+    "section": "21. Appendices",
+    "text": "21. Appendices\n\n21.1 Code Templates and Boilerplates\n21.2 Checklists and Quick References\n21.3 Tool Configuration Examples\n21.4 Glossary of Terms",
+    "crumbs": [
+      "Python Dev's Handbook"
+    ]
+  },
+  {
+    "objectID": "introduction.html",
+    "href": "introduction.html",
+    "title": "Introduction",
+    "section": "",
+    "text": "This Python Developer’s Handbook serves as the definitive guide for our development team, establishing consistent practices, standards, and workflows that ensure high-quality, maintainable, and scalable Python applications. Whether you’re a new team member getting up to speed or a seasoned developer looking for reference material, this handbook provides the foundation for excellence in Python development within our organization.\n\n\nThis comprehensive guide addresses every aspect of the Python development lifecycle, from initial environment setup to production deployment. It encompasses coding standards, testing methodologies, security practices, performance optimization, and collaborative workflows that have been refined through our team’s collective experience and industry best practices.\nThe handbook is designed to be both prescriptive and educational, providing not just the “what” but also the “why” behind our chosen approaches. It reflects our commitment to writing code that is not only functional but also readable, maintainable, and robust.\n\n\n\nThis handbook is primarily written for Python developers working within our organization, including:\n\nNew team members who need to understand our development practices and standards\nExperienced developers seeking quick reference to established patterns and guidelines\n\nTechnical leads who need to ensure consistency across projects and teams\nDevOps engineers working with Python applications in our infrastructure\nQuality assurance engineers who need to understand our testing and quality standards\n\n\n\n\nOur Python development practices have been shaped by our specific needs, infrastructure, and business requirements. While many principles in this handbook reflect industry standards and best practices, some guidelines are tailored to our unique environment, toolchain, and organizational goals. This handbook should be understood within the context of our broader engineering culture and technical architecture.",
+    "crumbs": [
+      "Introduction"
+    ]
+  },
+  {
+    "objectID": "introduction.html#purpose-and-scope",
+    "href": "introduction.html#purpose-and-scope",
+    "title": "Introduction",
+    "section": "",
+    "text": "This Python Developer’s Handbook serves as the definitive guide for our development team, establishing consistent practices, standards, and workflows that ensure high-quality, maintainable, and scalable Python applications. Whether you’re a new team member getting up to speed or a seasoned developer looking for reference material, this handbook provides the foundation for excellence in Python development within our organization.\n\n\nThis comprehensive guide addresses every aspect of the Python development lifecycle, from initial environment setup to production deployment. It encompasses coding standards, testing methodologies, security practices, performance optimization, and collaborative workflows that have been refined through our team’s collective experience and industry best practices.\nThe handbook is designed to be both prescriptive and educational, providing not just the “what” but also the “why” behind our chosen approaches. It reflects our commitment to writing code that is not only functional but also readable, maintainable, and robust.\n\n\n\nThis handbook is primarily written for Python developers working within our organization, including:\n\nNew team members who need to understand our development practices and standards\nExperienced developers seeking quick reference to established patterns and guidelines\n\nTechnical leads who need to ensure consistency across projects and teams\nDevOps engineers working with Python applications in our infrastructure\nQuality assurance engineers who need to understand our testing and quality standards\n\n\n\n\nOur Python development practices have been shaped by our specific needs, infrastructure, and business requirements. While many principles in this handbook reflect industry standards and best practices, some guidelines are tailored to our unique environment, toolchain, and organizational goals. This handbook should be understood within the context of our broader engineering culture and technical architecture.",
+    "crumbs": [
+      "Introduction"
+    ]
+  },
+  {
+    "objectID": "introduction.html#how-to-use-this-handbook",
+    "href": "introduction.html#how-to-use-this-handbook",
+    "title": "Introduction",
+    "section": "How to Use This Handbook",
+    "text": "How to Use This Handbook\nThis handbook is structured to serve multiple purposes: as a learning resource for newcomers, a reference guide for daily development work, and a comprehensive standard for our entire development lifecycle.\n\nFor New Team Members\nIf you’re new to the team, we recommend reading through the handbook sequentially, starting with the development environment setup in Chapter 2. Pay particular attention to:\n\nChapters 2-3: Essential for getting your development environment configured correctly\nChapters 4-8: Core practices that you’ll use in every project\nChapters 17-18: Team collaboration practices and communication guidelines\n\nConsider the first few chapters as mandatory reading, while later chapters can be referenced as needed based on your specific projects and responsibilities.\n\n\nFor Experienced Developers\nUse this handbook as a reference guide and decision-making tool. Each chapter is designed to be self-contained, allowing you to quickly find information relevant to your current task. Key reference sections include:\n\nQuick decision trees for choosing between different tools or approaches\nCode examples that demonstrate preferred patterns and anti-patterns\nChecklists for code reviews, testing, and deployment\nConfiguration templates that can be copied and adapted for new projects\n\n\n\nFor Project Planning\nWhen starting new projects or making architectural decisions, relevant chapters can guide technology choices, project structure, and implementation approaches. The handbook provides decision frameworks that consider our specific technical constraints, team capabilities, and business objectives.\n\n\nStaying Current\nThis is a living document that evolves with our practices, tools, and understanding. Check the revision history and changelog regularly, and subscribe to updates when significant changes are made. When you encounter outdated information or have suggestions for improvement, please contribute using the process outlined in section 1.3.\n\n\nIntegration with Daily Workflow\nThis handbook is designed to integrate seamlessly with your development workflow. Many sections include:\n\nIDE configurations that can be imported directly into your development environment\nScripts and automation that implement handbook guidelines\nTemplates and boilerplates for common development tasks\nLinks to relevant tools and resources referenced throughout our development process",
+    "crumbs": [
+      "Introduction"
+    ]
+  },
+  {
+    "objectID": "introduction.html#contributing-to-this-document",
+    "href": "introduction.html#contributing-to-this-document",
+    "title": "Introduction",
+    "section": "Contributing to This Document",
+    "text": "Contributing to This Document\nThis handbook represents our collective knowledge and experience, and it improves through the contributions of every team member. We encourage active participation in keeping this document current, accurate, and useful.\n\nPhilosophy of Continuous Improvement\nOur development practices evolve as we learn from experience, adopt new technologies, and respond to changing requirements. This handbook should reflect our current understanding and practices, not historical decisions or aspirational goals. Every guideline should be backed by practical experience and measurable benefits to our development process.\n\n\nTypes of Contributions\nWe welcome several types of contributions:\nContent Updates: When you discover outdated information, encounter new best practices, or identify gaps in coverage, please propose updates. This includes everything from correcting typos to adding entirely new sections.\nPractical Examples: Real-world code examples, configuration files, and case studies from actual projects make the handbook more valuable. Share examples that illustrate both successful patterns and lessons learned from challenges.\nTool and Process Improvements: As we adopt new tools or refine our processes, the handbook should reflect these changes. Contribute sections on new technologies, updated workflows, or improved automation.\nClarifications and Explanations: If you find sections unclear or confusing, help improve them. Often, a fresh perspective can identify areas that need better explanation or more context.\n\n\nContribution Process\nAll changes to this handbook follow our standard code review process:\n\nCreate a feature branch from the main documentation repository\nMake your changes following our documentation standards (outlined in Chapter 14)\nTest any code examples to ensure they work as documented\nSubmit a pull request with a clear description of the changes and rationale\nEngage in review discussion and iterate based on feedback\nMerge after approval from at least two team members\n\n\n\nDocumentation Standards\nWhen contributing to this handbook, follow these guidelines:\n\nWrite for your audience: Assume readers have Python experience but may be new to our specific practices\nBe concise but complete: Provide enough context for understanding without unnecessary verbosity\nInclude practical examples: Abstract principles should be accompanied by concrete code examples\nLink to external resources: Reference official documentation, authoritative sources, and relevant tools\nMaintain consistency: Follow the established tone, structure, and formatting throughout the document\n\n\n\nReview and Maintenance\nThe handbook undergoes regular review cycles to ensure accuracy and relevance:\nQuarterly Reviews: Each quarter, chapter owners review their sections for accuracy and completeness, updating content based on recent experience and changes in our practices.\nAnnual Architecture Review: Once per year, we conduct a comprehensive review of the handbook’s structure, scope, and alignment with our evolving needs.\nContinuous Feedback: We maintain an open feedback channel where team members can report issues, suggest improvements, or request clarification on any handbook content.\n\n\nOwnership and Accountability\nWhile everyone contributes to the handbook, specific chapters have designated owners who are responsible for maintaining accuracy and currency in their areas of expertise. These owners are typically the team members with the deepest knowledge in each domain and serve as the primary reviewers for changes in their sections.\nThis distributed ownership model ensures that the handbook reflects deep expertise while remaining accessible to all team members for contributions and improvements.\n\nsource\n\n\nfoo\n\n foo ()",
+    "crumbs": [
+      "Introduction"
+    ]
+  },
+  {
+    "objectID": "aitoolssetup.html",
+    "href": "aitoolssetup.html",
+    "title": "AI Tools Setup",
+    "section": "",
+    "text": "source\n\nfoo\n\n foo ()",
+    "crumbs": [
+      "AI Tools Setup"
+    ]
+  }
+]
